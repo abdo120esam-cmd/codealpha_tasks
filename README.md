@@ -1,25 +1,17 @@
-# 🐍 Task 1 – Basic Network Sniffer
+# 🐍 First Task: Simple Network Sniffer
 
-### 👨‍💻 Developed by: Abdelrhman Essam Saad Zghloul
+### 👨‍💻 Created by: Abdelrhman Essam Zghloul Saad
 
-This Python script is part of my internship at **CodeAlpha**. It captures and analyzes live network packets using **Scapy**.
+My internship at **CodeAlpha** includes this Python script. It uses **Scapy** to record and examine real-time network packets.
 
-## ✅ Features
-- Live packet sniffing from network interface
-- Extracts and displays:
-  - Source IP
-  - Destination IP
-  - Protocol (TCP/UDP/ICMP)
-  - Payload preview (first 50 bytes)
+## Features
+Sniffing live packets from a network interface
+- Extracts and shows:
+  - Protocol (TCP/UDP/ICMP) - Source IP - Destination IP
+  Preview of the payload (first 50 bytes)
 
-## 🔧 Requirements
-```bash
-sudo pip3 install scapy
-```
+## 🔧 Prerequisites ```bash sudo pip3 install scapy ```
 
-## 🚀 Run the program
-```bash
-sudo python3 network_sniffer.py
-```
+## 🚀 Launch the application by typing ```bashsudo python3 network_sniffer.py ```
 
-> ⚠️ Use responsibly and only on networks you are authorized to monitor.
+> ⚠️ Use sparingly and only on networks that you have permission to watch.
