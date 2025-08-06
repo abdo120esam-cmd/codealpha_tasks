@@ -1,6 +1,6 @@
-# 🐍 First Task: Simple Network Sniffer
+# First Task: Simple Network Sniffer
 
-### 👨‍💻 Created by: Abdelrhman Essam Zghloul Saad
+# Created by: Abdelrhman Essam Zghloul Saad
 
 My internship at **CodeAlpha** includes this Python script. It uses **Scapy** to record and examine real-time network packets.
 
@@ -12,6 +12,6 @@ Sniffing live packets from a network interface
 
 ## 🔧 Prerequisites ```bash sudo pip3 install scapy ```
 
-## 🚀 Launch the application by typing ```bashsudo python3 network_sniffer.py ```
+# Launch the application by typing ```bashsudo python3 network_sniffer.py ```
 
-> ⚠️ Use sparingly and only on networks that you have permission to watch.
+ Use sparingly and only on networks that you have permission to watch.
