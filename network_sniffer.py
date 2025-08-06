@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
 # Developed by Abdelrhman Essam Saad Zghloul
-
 from scapy.all import sniff, IP, TCP, UDP, ICMP
 
 def process_packet(packet):
